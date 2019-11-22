@@ -1,0 +1,11 @@
+{
+    "uris": [
+        "file://E:\\xampp\\htdocs\\laravel-projects\\cms"
+    ],
+    "indexDatabaseUri": "file://C:\\Users\\92344\\AppData\\Roaming\\php-ide-serenata\\index-d001ce9a1be714962fd8f6321e4c3e7e.sqlite",
+    "phpVersion": 7.3,
+    "excludedPathExpressions": [],
+    "fileExtensions": [
+        "php"
+    ]
+}
