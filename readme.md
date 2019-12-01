@@ -1,3 +1,23 @@
+# Project abstract:
+This is a complete cms project in laravel 6.4. It is a professional blog. Admin control all functionality. He can make new admin.
+
+# Admin:
+* Make new admin
+* Add Category
+* Add Post
+* Add Post tags
+* Soft delete functionality
+
+# Blog Functions:
+* Stunning front end theme
+* Comments facility
+* Post share facility
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
