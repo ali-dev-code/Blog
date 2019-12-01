@@ -1,5 +1,5 @@
 # Project abstract:
-This is a complete cms project in laravel 6.4. It is a professional blog. Admin control all functionality. He can make new admin.
+This is a complete cms project in laravel 6.4. It is a professional blog.
 
 # Admin:
 * Make new admin
